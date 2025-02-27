@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to my portfolio!
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Explore Now
+    buttonlink: "#interests"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  interests:
+    title: "Interests"
+    text: "3 main daily hobbies"
+    section: interests
     list:
-      - title: "E-Commerce"
+      - title: "Illustration"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "[Markdown]Data Analysis"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Competitive Sports"
+        desc: "She is a huge fan of the games, matches and races. **Football** and Formula_1 are her favourite. She follows the DFB_team and FC Bayern, and admires 2 players, FW17/10 and MN1, the most."
+        icon: fa-regular fa-futbol
 
   portfolio:
     title: "Portfolio"
