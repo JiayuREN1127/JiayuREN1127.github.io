@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Explore Now
     buttonlink: "#interests"
 
-  interests:
+  service:
     title: "Interests"
     text: "3 main daily hobbies"
     section: interests
