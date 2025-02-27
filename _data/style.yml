@@ -1,5 +1,6 @@
 #Color Customization
-#highlight: "#54bfff"
+#highlight: "#54bfff" #原始模板
+highlight: "#B01F24"
 #white: "#FF0000"
 #black: "#000"
 
