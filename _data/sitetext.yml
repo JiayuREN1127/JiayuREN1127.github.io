@@ -116,7 +116,7 @@ en: &DEFAULT_EN
         icon: "fab fa-bilibili"
       - url: http://weixin.qq.com/r/mp/pRCbg_DEDL1zraTg90W3
         icon: "fab fa-weixin"
-      - url: <a href_"mailto:2118790587@qq.com">
+      - url: "mailto:2118790587@qq.com">
         icon: "fas fa-envelope"
       - url: https://github.com/JiayuREN1127
         icon: "fab fa-github"
