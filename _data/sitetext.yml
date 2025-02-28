@@ -114,7 +114,7 @@ en: &DEFAULT_EN
     social:
       - url: https://www.xiaohongshu.com/user/profile/64ded479000000000100fc5f
        #  icon: "fab fa-bilibili"
-        icon: "fa-solid fa-book" style="color: /#e81e1a;"
+        icon: "fa-solid fa-book" style="color: \#e81e1a;"
       - url: http://weixin.qq.com/r/mp/pRCbg_DEDL1zraTg90W3
         icon: "fab fa-weixin"
       - url: "mailto:2118790587@qq.com"
