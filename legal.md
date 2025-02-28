@@ -35,6 +35,8 @@ We may update this privacy policy from time to time for personal, operational, l
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
+<br>
+
 ## THANKS
 [raviriley](https://github.com/raviriley), thanks for such a beautiful template! I used [agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) and it is convenient to get started to build.  
 [colemak(ZJU)](note.colemak.top), thanks for the very help!  
