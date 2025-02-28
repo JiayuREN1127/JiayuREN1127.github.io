@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Several events that seem like the life turning points, or maybe not -- just another ordinary day."
+    text: "Several events that seem like the life turning points, or maybe not —— just another ordinary day."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -79,9 +79,9 @@ en: &DEFAULT_EN
       She majors in **Administration** (from public to private sector) and has been trained as alomost an ECON student following the instructions from her tutors. <br>
       <br>
       She explores mainly on these academic topics: 
-        + **·** Inequality & inequity
-        + **·** Wage, compensaion, income & wealth
-        + **·** Subjective Well-being
+        - **·** Inequality & inequity
+        - **·** Wage, compensaion, income & wealth
+        - **·** Subjective Well-being
     section: about
 
 #  clients:
