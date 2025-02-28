@@ -106,7 +106,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Me"
     text: "Have no mania for Social Media, sorry!"
-    text: ""
+    text: "For Academic Discussion, please e-mail me at 3210105868@zju.edu.cn <br> while Casual Chat and Work Talk at 2118790587@qq.com"
     section: contact
 
   footer:
@@ -119,6 +119,8 @@ en: &DEFAULT_EN
       - url: "mailto:2118790587@qq.com"
         icon: "fas fa-envelope"
       - url: https://github.com/JiayuREN1127
+        icon: assets/img/xhs.svg
+      - url: https://www.xiaohongshu.com/user/profile/64ded479000000000100fc5f
         icon: "fab fa-github"
       - url: https://www.instagram.com/jiangheng_axis
         icon: "fab fa-instagram"
