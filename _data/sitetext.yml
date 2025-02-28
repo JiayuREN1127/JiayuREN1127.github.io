@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Competitive Sports"
         desc: "She is a huge fan of the games, matches and races. **Football** and Formula_1 are her favourite. She follows the DFB_team and FC Bayern, and admires 2 players, FW17/10 and MN1, the most."
-        icon: far fa-futbol
+        icon: fas fa-futbol
 
   portfolio:
     title: "Portfolio"
