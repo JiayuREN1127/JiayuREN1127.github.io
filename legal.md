@@ -6,6 +6,8 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
+<br>
+
 **PERSONAL INFORMATION WE COLLECT**
 
 {% if site.analytics.google %}
