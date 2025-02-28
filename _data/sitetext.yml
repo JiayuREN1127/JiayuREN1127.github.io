@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "She has been being trained to master several **Econometric** skills by her venerable tutors and always eager to find or create a insight or an outlook of social economic phenomena. However, she is not quite interested in the pure theory thing."
         icon: fas fa-chart-line
       - title: "Competitive Sports"
-        desc: "A huge fan of the games, matches and races. **Football** and Formula1 are the favourite. She follows the DFB team and FC Bayern, admiring 2 players - Wirtz17/10 and Neuer1 - the most."
+        desc: "A huge fan of the games, matches and races. **Football** and Formula1 are the favourite. She follows the DFB team and FC Bayern, admiring 2 players (Wirtz17/10 and Neuer1) the most."
         icon: far fa-futbol
 
   portfolio:
@@ -63,7 +63,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Title"
         year: "September 2025"
-        desc: "I will study for a business administration PhD soon in Beijing, China. To be honest, I don't have too much excitement for the new adventure —— please forgive me, it's always not easy to jump out of the comfort zone."
+        desc: "I will soon begin studying for a PhD in Business Administration in Beijing, China. To be honest, I don't feel much excitement about this new adventure —— please forgive me, as it's never easy to step out of one's comfort zone."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
