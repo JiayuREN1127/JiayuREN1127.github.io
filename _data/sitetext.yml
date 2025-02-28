@@ -51,14 +51,14 @@ en: &DEFAULT_EN
                     *—— Friedrich Wilhelm Nietzsche*"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Education Starts"
+      - title: "the 17-year-old"
         year: "November 2020"
         desc: "I found myself facing a realistic difficulty in entering a medium-level university during my third year of senior high school, if I continued to loaf and not to devote to studying at all. Therefore I spared no effort in preparing for the uni. entrance exam."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Undergraduate"
-        year: "2021 - 2025"
-        desc: "I spent the last 4 years on Zijingang Campus, Zhejiang University. I love everything except for the weather and food here. I do believe this period will be a life fortune."
+        year: "2021 to 2025"
+        desc: "I spent last four years on Zijingang Campus, Zhejiang University. I love everything except for the weather and food here. I do believe this period of time will be a life fortune, despite how negative it seemed to be at the very first. "
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Coming Soon"
