@@ -8,7 +8,7 @@ highlight: "#B01F24"
 header-image: "assets/img/header-bg.jpg"
 contact-image: "../img/contact.png"
 #Font Awesome icon for portfolio grid when an item is hovered over
-#portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
+portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
 
 # Add custom fonts
 fonts_urls:
