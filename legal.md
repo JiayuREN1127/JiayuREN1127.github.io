@@ -7,7 +7,7 @@ title: Privacy Policy
 </div>
 
 <br>
-
+  
 **PERSONAL INFORMATION WE COLLECT**
 
 {% if site.analytics.google %}
@@ -35,3 +35,8 @@ We may update this privacy policy from time to time for personal, operational, l
 **CONTACT US**
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+#### THANKS
+@[raviriley](https://github.com/raviriley), thanks for such a beautiful template! I used [agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) and it is convenient to get started to build.
+@[colemak(ZJU)](note.colemak.top), thanks for the very help!  
+@[ICPD(ZJU)](https://icpd.zju.edu.cn), thanks for the leisure time and the large display screen that my tutors offered me.
