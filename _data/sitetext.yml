@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "She has been being trained to master several **Econometric** skills by her venerable tutors and always eager to find or create a insight or an outlook of social economic phenomena. However, she is not quite interested in the pure theory thing."
         icon: fas fa-chart-line
       - title: "Competitive Sports"
-        desc: "A huge fan of the games, matches and races. **Football** and Formula1 are the favourite. She follows the DFB team and FC Bayern, admiring 2 players (Wirtz17/10 and Neuer1) the most. Also suffers from dissatisfaction occasionally."
+        desc: "A huge fan of the games, matches and races. **Football** and Formula1 are the favourite. <br> She follows the DFB team and FC Bayern, admiring 2 players (Wirtz17/10 and Neuer1) the most. Also suffers from dissatisfaction occasionally."
         icon: far fa-futbol
 
   portfolio:
@@ -53,17 +53,17 @@ en: &DEFAULT_EN
         alt:
       - title: "the 17-year-old"
         year: "November 2020"
-        desc: "I found myself facing a realistic difficulty in entering a medium-level university during my third year of senior high school, if I continued to loaf and not to devote to studying at all. Therefore I spared no effort in preparing for the uni. entrance exam."
+        desc: "She found herself facing a realistic difficulty in entering a medium-level university during the third year of senior high school, if she continued to loaf and not to devote to studying at all. Therefore she spared no effort in preparing for the uni. entrance exam."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Undergraduate"
         year: "2021 to 2025"
-        desc: "I spent last four years on Zijingang Campus, Zhejiang University. I love everything except for the weather and food here. I do believe this period of time will be a life fortune, despite how negative it seemed to be at the very first. "
+        desc: "Spent the last four years on Zijingang Campus, Zhejiang University. She loves everything except for the weather and food here. She does believe this period of time will be a life fortune, despite how negative it seemed to be at the very first. "
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Coming Soon"
         year: "September 2025"
-        desc: "I will soon begin studying for a PhD in Business Administration in Beijing, China. To be honest, I have not felt much excitement about this new adventure. <br> Please forgive me, as it is never easy to step out of one's comfort zone."
+        desc: "She will soon begin studying for a PhD in Business Administration in Beijing, China. To be honest, She has not felt much excitement about this new adventure. <br> Please forgive her, as it is never easy to step out of comfort zone."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
