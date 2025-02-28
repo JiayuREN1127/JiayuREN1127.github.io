@@ -47,7 +47,8 @@ en: &DEFAULT_EN
       - title: "Humble Beginning"
         year: "End of 2003"
         desc: "The Journey Begins! <br> 
-                    *Wer ein Warum hat zu leben, erträgt fast jedes Wie.* <br>
+                    *Wer ein Warum hat zu leben,* <br> 
+                    *erträgt fast jedes Wie.* <br>
                     *—— Friedrich Wilhelm Nietzsche*"
         image: assets/img/timeline/1.jpg
         alt:
