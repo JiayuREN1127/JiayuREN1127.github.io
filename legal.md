@@ -6,6 +6,7 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
+<br>
   
 **PERSONAL INFORMATION WE COLLECT**
 
@@ -40,7 +41,6 @@ For more information about our privacy practices or if you have questions, pleas
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Thanks</h2>
 </div>
-
 
 <div class="col-lg-12 text-center thank-you-text">
 	<p>
