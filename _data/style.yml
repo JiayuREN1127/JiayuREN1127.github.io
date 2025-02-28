@@ -16,10 +16,11 @@ fonts_urls:
     - "https://fonts.googleapis.com/css?family=Kaushan+Script"
     - "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
     - "https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
+    - "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:700"
 
 # Set custom fonts
 fonts:
-  - name: "Montserrat"
+  - name: "Noto Serif SC"
     for: "heading"
   - name: "Kaushan Script"
     for: "script"
