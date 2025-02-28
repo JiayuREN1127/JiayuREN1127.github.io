@@ -65,7 +65,7 @@ en: &DEFAULT_EN
       - title: "Coming Soon"
         year: "September 2025"
         desc: "She will soon begin studying for a PhD in Business Administration in Beijing, China. To be honest, She has not felt much excitement about this new adventure. <br> Please forgive her, as it is never easy to step out of comfort zone."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
