@@ -42,6 +42,8 @@ For more information about our privacy practices or if you have questions, pleas
 	<h2 class="section-heading text-uppercase">Thanks</h2>
 </div>
 
+<br>
+
 <div class="col-lg-12 text-center thank-you-text">
 	<p>
 		<a href="https://github.com/raviriley">raviriley</a>, thanks for such a beautiful template!
