@@ -39,23 +39,23 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Record of several events which seem like life turnpoints."
+    text: "Several events that seem like the life turning points, or maybe not -- just another ordinary day."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "My Humble Beginning"
+        year: "2003"
+        desc: "The Journey Begins! <br> *Wer ein Warum hat zu leben, erträgt fast jedes Wie.* <br> *(Friedrich Wilhelm Nietzsche)* "
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Education Starts"
+        year: "November 2020"
+        desc: "I found myself facing a realistic difficulty in entering a medium-level university if I continued to loaf and not to devote to studying at all. So I spared no effort"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "Undergraduate"
+        year: "2021 - 2025"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
@@ -75,9 +75,9 @@ en: &DEFAULT_EN
       *姜珩AXiS* is an university student from Hubei Wuhan, who will soon get her undergraduate certificate and become a PhD candidate. <br>
       She majors in **Administration** (from public to private sector) and has been trained as alomost an ECON student following the instructions from her tutors. <br>
       She explores mainly on these academic topics: 
-        + Inequality & inequity
-        + Wage, compensaion, income and wealth
-        + Subjective Well-being
+        + **·** Inequality & inequity
+        + **·** Wage, compensaion, income & wealth
+        + **·** Subjective Well-being
     section: about
 
 #  clients:
