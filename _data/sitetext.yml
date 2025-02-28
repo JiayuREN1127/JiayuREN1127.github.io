@@ -46,7 +46,9 @@ en: &DEFAULT_EN
     events:
       - title: "My Humble Beginning"
         year: "2003"
-        desc: "The Journey Begins! <br> *Wer ein Warum hat zu leben, erträgt fast jedes Wie.* <br> *(Friedrich Wilhelm Nietzsche)* "
+        desc: "The Journey Begins! <br> 
+                    >*Wer ein Warum hat zu leben, erträgt fast jedes Wie.* 
+                    >*—— Friedrich Wilhelm Nietzsche*"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Education Starts"
@@ -73,7 +75,9 @@ en: &DEFAULT_EN
     text: "JiangHeng AXiS"
     body: >
       *姜珩AXiS* is an university student from Hubei Wuhan, who will soon get her undergraduate certificate and become a PhD candidate. <br>
+      <br>
       She majors in **Administration** (from public to private sector) and has been trained as alomost an ECON student following the instructions from her tutors. <br>
+      <br>
       She explores mainly on these academic topics: 
         + **·** Inequality & inequity
         + **·** Wage, compensaion, income & wealth
