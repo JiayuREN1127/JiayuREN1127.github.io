@@ -37,7 +37,25 @@ For more information about our privacy practices or if you have questions, pleas
 
 <br>
 
-## THANKS
-[raviriley](https://github.com/raviriley), thanks for such a beautiful template! I used [agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) and it is convenient to get started to build.  
-[colemak(ZJU)](note.colemak.top), thanks for the very help!  
-[ICPD(ZJU)](https://icpd.zju.edu.cn), thanks for the leisure time and the large display screen that my tutors offered me.
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Thanks</h2>
+</div>
+
+
+<div class="col-lg-12 text-center thank-you-text">
+	<p>
+		[<a href="https://github.com/raviriley">raviriley</a>], thanks for such a beautiful template!
+		I used <a href="https://github.com/raviriley/agency-jekyll-theme">agency-jekyll-theme</a> and it is convenient to get started to build.
+	</p>
+	<p>
+		[<a href="note.colemak.top">colemak(ZJU)</a>], thanks for the very help!
+	</p>
+	<p>
+		[<a href="https://icpd.zju.edu.cn">ICPD(ZJU)</a>], thanks for the leisure time and the large display screen that my tutors offered me.
+	</p>
+</div>
+
+
+# [raviriley](https://github.com/raviriley), thanks for such a beautiful template! I used [agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) and it is convenient to get started to build.  
+# [colemak(ZJU)](note.colemak.top), thanks for the very help!  
+# [ICPD(ZJU)](https://icpd.zju.edu.cn), thanks for the leisure time and the large display screen that my tutors offered me.
