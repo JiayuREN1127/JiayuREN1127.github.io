@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Interests"
-      section: service
+      section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -37,7 +37,7 @@ en-AU:
 es: &DEFAULT_CN
   nav:
     - title: "兴趣"
-      section: service
+      section: services
     - title: "“作品”集"
       section: portfolio
     - title: "关于我"
