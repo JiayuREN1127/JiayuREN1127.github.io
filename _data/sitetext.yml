@@ -111,7 +111,7 @@ en: &DEFAULT_EN
     section: contact
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Privacy Policy and THANKS"
     social:
       - url: https://www.xiaohongshu.com/user/profile/64ded479000000000100fc5f
        #  icon: "fab fa-bilibili"
