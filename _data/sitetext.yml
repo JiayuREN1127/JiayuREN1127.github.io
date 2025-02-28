@@ -44,8 +44,8 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "My Humble Beginning"
-        year: "2003"
+      - title: "Humble Beginning"
+        year: "End of 2003"
         desc: "The Journey Begins! <br> 
                     *Wer ein Warum hat zu leben, erträgt fast jedes Wie.* <br>
                     *—— Friedrich Wilhelm Nietzsche*"
@@ -53,17 +53,17 @@ en: &DEFAULT_EN
         alt:
       - title: "Education Starts"
         year: "November 2020"
-        desc: "I found myself facing a realistic difficulty in entering a medium-level university when I was in my third year of senior high school, if I continued to loaf and not to devote to studying at all. So I spared no effort preparing for the uni. entrance exam."
+        desc: "I found myself facing a realistic difficulty in entering a medium-level university during my third year of senior high school, if I continued to loaf and not to devote to studying at all. Therefore I spared no effort in preparing for the uni. entrance exam."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Undergraduate"
         year: "2021 - 2025"
-        desc: "I spent the last 4 years on Zijingang Campus, Zhejiang University. I love everything except for the weather and food here. <br> I do believe this period will be a life fortune."
+        desc: "I spent the last 4 years on Zijingang Campus, Zhejiang University. I love everything except for the weather and food here. I do believe this period will be a life fortune."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
+      - title: "Coming Soon"
         year: "September 2025"
-        desc: "I will soon begin studying for a PhD in Business Administration in Beijing, China. To be honest, I don't feel much excitement about this new adventure —— please forgive me, as it's never easy to step out of one's comfort zone."
+        desc: "I will soon begin studying for a PhD in Business Administration in Beijing, China. To be honest, I have not felt much excitement about this new adventure. <br> Please forgive me, as it is never easy to step out of one's comfort zone."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -105,20 +105,21 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Me"
     text: "Have no mania for Social Media, sorry!"
+    text: ""
     section: contact
 
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://space.bilibili.com/38491252?spm_id_from=333.1007.0.0
+        icon: "fab fa-bilibili"
+      - url: http://weixin.qq.com/r/mp/pRCbg_DEDL1zraTg90W3
+        icon: "fab fa-weixin"
+      - url: 2118790587@qq.com
+        icon: "far fa-envelop"
+      - url: https://github.com/JiayuREN1127
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/jiangheng_axis
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
