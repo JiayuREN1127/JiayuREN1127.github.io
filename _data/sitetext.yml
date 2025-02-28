@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "Illustration"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart   #find more at https://fontawesome.com/icons
-      - title: "[Markdown]Data Analysis"
+      - title: "**Data Analysis**"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "Competitive Sports"
