@@ -14,16 +14,16 @@ en: &DEFAULT_EN
     title: Welcome to my portfolio!
     text: It's Nice To Meet You
     button: Explore Now
-    buttonlink: "#interests"
+    buttonlink: "#services"
 
-  interests:
+  services:
     title: "Interests"
     text: "3 main daily hobbies"
-    section: interests
+    section: services
     list:
       - title: "Illustration"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart   #find more at https://fontawesome.com/icons
       - title: "[Markdown]Data Analysis"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
@@ -74,11 +74,28 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
   contact:
     title: "Contact Me"
-    text: "Have no mania for Social Media, sorry"
+    text: "Have no mania for Social Media, sorry!"
     section: contact
-# 抄上面的interests
 
   footer:
     legal: "Privacy Policy"
@@ -101,5 +118,4 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
 
