@@ -25,11 +25,11 @@ en: &DEFAULT_EN
         desc: "Graphic design, data visualization, video edit and photographs -- YES, she definitely loves to be involved in any creative as well as aesthetic work."
         icon: fas fa-palette   #find more at https://fontawesome.com/icons
       - title: "**Data Analysis**"
-        desc: "She has been being trained to master several ECONOMETRIC skills by her venerable tutors and always eager to find or create a insight or an outlook of social economic phenomena. However, she is not quite interested in the pure theory thing."
+        desc: "She has been being trained to master several **ECONOMETRIC** skills by her venerable tutors and always eager to find or create a insight or an outlook of social economic phenomena. However, she is not quite interested in the pure theory thing."
         icon: fas fa-chart-line
       - title: "Competitive Sports"
         desc: "A huge fan of the games, matches and races. **Football** and Formula_1 are the favourite. She follows the DFB_team and FC Bayern, admiring 2 players - Wirtz_17/10 and Neuer_1 - the most."
-        icon: fas fa-futbol
+        icon: far fa-futbol
 
   portfolio:
     title: "Portfolio"
@@ -66,12 +66,15 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Attempt <br> on <br> More!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About ME"
+    text: "JiangHeng AXiS"
+    body: >
+      "姜珩AXiS is a student from Wuhan Hubei, who will soon get her undergraduate certificate and become a PhD candidate.
+      She majors in ADMINISTRATION(from public to private sector) and has been trained as an ECON student.
+      Her academic interests lie mainly on: Inequality & inequity; Wage, income and wealth; Subjective Well-being."
     section: about
 
 #  clients:
