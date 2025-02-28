@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my portfolio!
-    text: It's Nice To Meet You
+    text: Very Nice To Meet You
     button: Explore Now
     buttonlink: "#services"
 
@@ -47,23 +47,23 @@ en: &DEFAULT_EN
       - title: "My Humble Beginning"
         year: "2003"
         desc: "The Journey Begins! <br> 
-                    >*Wer ein Warum hat zu leben, erträgt fast jedes Wie.* 
-                    >*—— Friedrich Wilhelm Nietzsche*"
+                    *Wer ein Warum hat zu leben, erträgt fast jedes Wie.* <br>
+                    *—— Friedrich Wilhelm Nietzsche*"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Education Starts"
         year: "November 2020"
-        desc: "I found myself facing a realistic difficulty in entering a medium-level university if I continued to loaf and not to devote to studying at all. So I spared no effort"
+        desc: "I found myself facing a realistic difficulty in entering a medium-level university when I was in my third year of senior high school, if I continued to loaf and not to devote to studying at all. So I spared no effort preparing for the uni. entrance exam."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Undergraduate"
         year: "2021 - 2025"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "I spent the last 4 years on Zijingang Campus, Zhejiang University. I love everything except for the weather and food here. <br> I do believe this period will be a life fortune."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        year: "September 2025"
+        desc: "I will study for a business administration PhD soon in Beijing, China. To be honest, I don't have too much excitement for the new adventure —— please forgive me, it's always not easy to jump out of the comfort zone."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -74,11 +74,11 @@ en: &DEFAULT_EN
     title: "About ME"
     text: "JiangHeng AXiS"
     body: >
-      *姜珩AXiS* is an university student from Hubei Wuhan, who will soon get her undergraduate certificate and become a PhD candidate. <br>
+      **姜珩AXiS** is an university student from Hubei Wuhan, who will soon get her undergraduate certificate and become a doctoral student. <br>
       <br>
-      She majors in **Administration** (from public to private sector) and has been trained as alomost an ECON student following the instructions from her tutors. <br>
+      She majors in **Management** (from public to private sector) and has been trained as alomost an Econ student following the instructions from her undergraduate supervisors. <br>
       <br>
-      She explores mainly on these academic topics: 
+      She explores mainly these academic topics: 
         - **·** Inequality & inequity
         - **·** Wage, compensaion, income & wealth
         - **·** Subjective Well-being
