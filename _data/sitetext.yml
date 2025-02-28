@@ -105,8 +105,9 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Have no mania for Social Media, sorry!"
-    text: "For Academic Discussion, please e-mail me at 3210105868@zju.edu.cn <br> while Casual Chat and Work Talk at 2118790587@qq.com"
+    text: "Have no mania for Social Media, sorry! <br>
+             For academic discussions, please e-mail me at [3210105868@zju.edu.cn](mailto:3210105868@zju.edu.cn "edu mail") <br> 
+             for casual chats or work-related matters at [2118790587@qq.com](mailto:2118790587@qq.com "daily mail") "
     section: contact
 
   footer:
