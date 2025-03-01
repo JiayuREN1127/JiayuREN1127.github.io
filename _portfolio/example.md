@@ -13,7 +13,7 @@ alt: image alt text
 
 ---
 
-Obviously, this website sould be a part of my portfolio.  
+Obviously, this website should be a part of my portfolio.  
 **I designed, built and tested it mainly on my own, using a template as the reference while being slightly helped by my friend.**  
 You can find more details in the "Privacy and THANKS" section.
 
