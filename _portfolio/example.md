@@ -17,11 +17,11 @@ Obviously, this website should be a part of my portfolio.
 **I designed, built and tested it mainly on my own, using a template as the reference while being slightly helped by my friend.**  
 You can find more details in the "Privacy and THANKS" section.
 
-Web name is bought from *aliyun*.  
-Template is from github project [agency-theme](https://github.com/raviriley/agency-jekyll-theme), built on *jekyll(ruby)*, *html*, *css*, and *java script*, I made some personalized and customized modifications to it.  
-Website is deployed by *Github Pages*, and your visit at the project is welcomed: [JiayuREN1127.github.io](https://github.com/JiayuREN1127/JiayuREN1127.github.io).
+Domain is purchased at *aliyun* platform.  
+Template is from github project [agency-theme](https://github.com/raviriley/agency-jekyll-theme), built on *jekyll(ruby)*, *html*, *css*, and *JavaScript*, I made some personalized and customized modifications to it.  
+Website is deployed via *Github Pages*, and your visit to the project is welcomed: [JiayuREN1127.github.io](https://github.com/JiayuREN1127/JiayuREN1127.github.io).
 
-My portfolio costs approximately no money but lots of time and energy.  
+My portfolio costs approximately no money but a large amount of time and energy.  
 Through the process, I have learnt:
 - basic usage of *html* and very little *css*
 - the common structure of a website and its project
