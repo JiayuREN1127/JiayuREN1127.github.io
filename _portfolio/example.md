@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Website
+  subtitle: This portfolio is built mainly by meyself using a template
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
