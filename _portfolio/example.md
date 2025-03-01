@@ -3,12 +3,12 @@
 caption: #what displays in the portfolio grid:
  title: Website
  subtitle: Portfolio built mainly by myself
- thumbnail: https://place-hold.it/400x300
+ thumbnail: assets/img/portfolio/example-thumbnail.jpg
 
 #what displays when the item is clicked:
 title: Website Design & Build
 subtitle: This portfolio is built mainly by myself.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/example-full.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
