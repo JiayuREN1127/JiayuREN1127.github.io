@@ -14,7 +14,7 @@ caption:
 I have developed several commands based on my own interests or in other words, entertainment. Some of them originated from my workflows and other stemmed from pure interests.  
 Creating a customized automatic progress helps encapsulate my empirical work and improve efficiency.  
 #### DRAWREGS: Visualize the Regression Coefficients
-**drawregs** is developed because I was totally tired of giant tables and forms requested by the same regressions which contains different dummies by order. To be more specific, it is used to create graphs for the regressions containing dummies with continuous economic features.  
+**drawregs** is developed because I was totally tired of giant tables and forms requested by the same regressions which contains different dummies by order. To be more specific, it is used to create graphs for the regressions containing dummies with continuous economic features.  <br>
 ![drawregs poster](/assets/img/portfolio/1-drawregs.png)  
 The "continuous economic feature" mentioned above encompasses two dimensions: Space and Time. Imagine a scenario: we aim to create several dummy variables representing temporal / spatial nodes (which form the complete temporal / spatial investigation scope when connected) to assess the impact of a single time / space point on our dependent variable. For instance, does t5 have a greater influence on Y compared to t1 and t2? Is the causal effect most significant at nkm2 ?
 
@@ -32,9 +32,9 @@ drawregs /// **needs stata version18
 The images below demonstrate the effect of the command.
 
 <table>
-  <tr>
-    <td><img src="pics/1-drawregs1.svg" align="center"></td>
-    <td><img src="pics/1-drawregs2.svg" align="center"></td>
+  <tr>    
+    <td>![dr1](/assets/img/portfolio/1-drawregs1.svg)</td>
+    <td>![dr1](/assets/img/portfolio/1-drawregs2.svg)</td>
   </tr>
 </table>
 
