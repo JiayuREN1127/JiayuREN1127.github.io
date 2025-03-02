@@ -14,7 +14,7 @@ caption:
 I have developed several commands based on my own interests or in other words, entertainment. Some of them originated from my workflows and other stemmed from pure interests.  
 
 Creating a customized automatic progress helps encapsulate my empirical work and improve efficiency.  
-#### DRAWREGS: Visualize the Regression Coefficients
+##### DRAWREGS: Visualize the Regression Coefficients
 **drawregs** is developed because I was totally tired of giant tables and forms requested by the same regressions which contains different dummies by order. To be more specific, it is used to create graphs for the regressions containing dummies with continuous economic features.  
     
 <img src="pics/1-drawregs.png" align="center">  
@@ -42,7 +42,7 @@ The images below demonstrate the effect of the command.
 </table>
 
 You can find the process of programming as well as more details in my [Wechat public post: 𝐒𝐓𝐀𝐓𝐀×可视化 | 厌倦了庞大表格？为虚拟变量的回归系数创建可视化图形](https://mp.weixin.qq.com/s/zivJLL6tqRkcjsNDRkx3Wg).
-#### TOPFOOTBALLERS:
+##### TOPFOOTBALLERS:
 **Topfootballers** is a Stata command created independently by the author.  
 It is designed to instantly crawl real-time data of top football players and display the information based on user-defined parameters for conditional filtering.
 
