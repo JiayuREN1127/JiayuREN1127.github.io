@@ -1,5 +1,5 @@
 ---
-title: Stata Application<br>& Development
+title: Stata Application and Development
 subtitle: Confident in mastering Stata skills.
 image: assets/img/portfolio/1-tfb1.png
 alt: stata-work
