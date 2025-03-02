@@ -32,7 +32,7 @@ drawregs /// **needs stata version18
 The images below demonstrate the effect of the command.
 
 | ![dr1](/assets/img/portfolio/1-drawregs1.svg) | ![dr1](/assets/img/portfolio/1-drawregs2.svg) |
-| --- | --- |
+| --- | --- |  
 
 You can find the process of programming as well as more details in my [Wechat public post: 𝐒𝐓𝐀𝐓𝐀×可视化 | 厌倦了庞大表格？为虚拟变量的回归系数创建可视化图形](https://mp.weixin.qq.com/s/zivJLL6tqRkcjsNDRkx3Wg).
 #### TOPFOOTBALLERS:
