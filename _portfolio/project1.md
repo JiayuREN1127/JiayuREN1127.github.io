@@ -6,7 +6,7 @@ alt: stata-work
 
 caption:
   title: Stata
-  subtitle: Mainstream Economic Statistic Software
+  subtitle: Major Economic Statistics Software
   thumbnail: assets/img/portfolio/1-stata-logo.png
 ---
 
