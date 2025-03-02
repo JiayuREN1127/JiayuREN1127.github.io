@@ -2,7 +2,7 @@
 
 caption: #what displays in the portfolio grid:
  title: Website
- subtitle: Portfolio Built Mainly by Myself<br>
+ subtitle: Portfolio Built Mainly by Myself<br><br>
  thumbnail: assets/img/portfolio/example-thumbnail.jpg
 
 #what displays when the item is clicked:
