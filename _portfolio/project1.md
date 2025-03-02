@@ -1,13 +1,13 @@
 ---
 title: Stata Application & Development
 subtitle: Confident in mastering Stata skills.
-image: assets/img/portfolio/stata-logo-blue.svg
+image: assets/img/portfolio/1-stata-logo.png
 alt: stata-logo
 
 caption:
   title: Stata
   subtitle: Mainstream Economic Statistic Software
-  thumbnail: assets/img/portfolio/stata-logo-blue.svg
+  thumbnail: assets/img/portfolio/1-stata-logo.png
 ---
 
 ## Command Programming
