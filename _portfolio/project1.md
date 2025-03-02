@@ -1,7 +1,7 @@
 ---
 title: Stata Application & Development
 subtitle: Confident in mastering Stata skills.
-image: _portfolio/pics/1-tfb1.png
+image: assets/img/portfolio/1-tfb1.png
 alt: stata-work
 
 caption:
