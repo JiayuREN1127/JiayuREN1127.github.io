@@ -29,4 +29,4 @@ My portfolio costs approximately no money but a large amount of time and energy.
 5. stay calm when an error occurs
 
 
-As a start learner, I kindly ask for your forgiveness and understanding if there are any flaws or mistakes.
+As a beginner, I kindly ask for your forgiveness and understanding if there are any flaws or mistakes.
