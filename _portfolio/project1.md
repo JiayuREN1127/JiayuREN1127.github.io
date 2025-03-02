@@ -32,8 +32,7 @@ drawregs /// **needs stata version18
 The images below demonstrate the effect of the command.
 
 <img src="/assets/img/portfolio/1-drawregs1.svg" alt="dr1" style="max-width: 49%; margin-right: 0px;">
-<img src="/assets/img/portfolio/1-drawregs2.svg" alt="dr2" style="max-width: 50%;">
-
+<img src="/assets/img/portfolio/1-drawregs2.svg" alt="dr2" style="max-width: 50%;">  
 You can find the process of programming as well as more details in my [Wechat public post: 𝐒𝐓𝐀𝐓𝐀×可视化 | 厌倦了庞大表格？为虚拟变量的回归系数创建可视化图形](https://mp.weixin.qq.com/s/zivJLL6tqRkcjsNDRkx3Wg).
 #### TOPFOOTBALLERS: Web Scraping & Text Analysis
 **Topfootballers** is a Stata command created independently by the author.  
