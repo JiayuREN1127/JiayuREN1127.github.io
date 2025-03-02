@@ -12,7 +12,6 @@ caption:
 
 ## Command Programming
 I have developed several commands based on my own interests or in other words, entertainment. Some of them originated from my workflows and other stemmed from pure interests.  
-
 Creating a customized automatic progress helps encapsulate my empirical work and improve efficiency.  
 #### DRAWREGS: Visualize the Regression Coefficients
 **drawregs** is developed because I was totally tired of giant tables and forms requested by the same regressions which contains different dummies by order. To be more specific, it is used to create graphs for the regressions containing dummies with continuous economic features.  
