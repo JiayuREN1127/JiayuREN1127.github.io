@@ -16,7 +16,7 @@ Creating a customized automatic progress helps encapsulate my empirical work and
 #### DRAWREGS: Visualize the Regression Coefficients
 **drawregs** is developed because I was totally tired of giant tables and forms requested by the same regressions which contains different dummies by order. To be more specific, it is used to create graphs for the regressions containing dummies with continuous economic features.  
 ![drawregs poster](/assets/img/portfolio/1-drawregs.png)  
-The "continuous economic feature" mentioned above encompasses two dimensions: Space and Time. Imagine a scenario: we aim to create several dummy variables representing temporal/spatial nodes (which form the complete temporal/spatial investigation scope when connected) to assess the impact of a single time/space point on our dependent variable. For instance, does t5 have a greater influence on Y compared to t1 and t2? Is the causal effect most significant at nkm2 ?
+The "continuous economic feature" mentioned above encompasses two dimensions: Space and Time. Imagine a scenario: we aim to create several dummy variables representing temporal / spatial nodes (which form the complete temporal / spatial investigation scope when connected) to assess the impact of a single time / space point on our dependent variable. For instance, does t5 have a greater influence on Y compared to t1 and t2? Is the causal effect most significant at nkm2 ?
 
 When encountered this difficulty in the empirical section of my graduation thesis, I wrote a few simple lines of code to visualize the estimation of coefficients and found the results to be satisfactory. I hoped to "encapsulate" this "function" for the potential use of others or for future needs if exist.  
 
@@ -41,7 +41,7 @@ The images below demonstrate the effect of the command.
 You can find the process of programming as well as more details in my [Wechat public post: 𝐒𝐓𝐀𝐓𝐀×可视化 | 厌倦了庞大表格？为虚拟变量的回归系数创建可视化图形](https://mp.weixin.qq.com/s/zivJLL6tqRkcjsNDRkx3Wg).
 #### TOPFOOTBALLERS:
 **Topfootballers** is a Stata command created independently by the author.  
-It is designed to instantly crawl real-time data of top football players and display the information based on user-defined parameters for conditional filtering.
+It is designed to instantly crawl real-time data of top football players and display the information based on user-defined parameters for conditional filtering.  
 ![tfb](/_portfolio/pics/1-tfb2.png)  
 Below is the **basic syntax** of the command.
 ```Stata
