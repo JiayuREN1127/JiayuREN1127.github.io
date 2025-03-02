@@ -31,18 +31,14 @@ drawregs /// **needs stata version18
 ```
 The images below demonstrate the effect of the command.
 
-<table>
-  <tr>    
-    <td>![dr1](/assets/img/portfolio/1-drawregs1.svg)</td>
-    <td>![dr1](/assets/img/portfolio/1-drawregs2.svg)</td>
-  </tr>
-</table>
+| ![dr1](/assets/img/portfolio/1-drawregs1.svg) | ![dr1](/assets/img/portfolio/1-drawregs2.svg) |
+| --- | --- |
 
 You can find the process of programming as well as more details in my [Wechat public post: 𝐒𝐓𝐀𝐓𝐀×可视化 | 厌倦了庞大表格？为虚拟变量的回归系数创建可视化图形](https://mp.weixin.qq.com/s/zivJLL6tqRkcjsNDRkx3Wg).
 #### TOPFOOTBALLERS:
 **Topfootballers** is a Stata command created independently by the author.  
 It is designed to instantly crawl real-time data of top football players and display the information based on user-defined parameters for conditional filtering.  
-![tfb](/_portfolio/pics/1-tfb2.png)  
+![tfb](/assets/img/portfolio/1-tfb2.png)  
 Below is the **basic syntax** of the command.
 ```Stata
 topfootballers league_name
@@ -52,7 +48,7 @@ The images below demonstrate the effect of the command.
 ** If you run this command:
 topfootballers UCL
 ```
-![tfb1](/_portfolio/pics/1-tfb1.gif)    
+![tfb1](/assets/img/portfolio/1-tfb1.gif)    
 Below is the **full syntax** of the command.
 ```Stata
 topfootballers league_name, ind() pos() rank() ageo() ageu() 
