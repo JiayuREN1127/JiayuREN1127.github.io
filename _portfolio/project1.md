@@ -10,6 +10,24 @@ caption:
   thumbnail: assets/img/portfolio/1-stata-logo.png
 ---
 
+## Data Cleanning
+Having a rich experience in data collection and cleanning, I am very familiar with the mainstream large-scale economic survey such as *CHIP*, *CFPS*, *CHES*, *CHARLS*, ..., etc.
+  
+I have been appointed to be in charge of data cleanning, which includes from sample selecting to calculation pre-processing, in several programs hosted by my supervisors.  
+Through all these experiences, I have developed immense patience and a sharp attention when dealing with numbers.  
+
+Able to provide an elaborate summary or descriptive statistics if needed, which sometimes I use *R* or *Python* to assist.   
+
+<br>
+
+## Data Analysis
+Trained to have a basic understanding towards **Econometric Methodology** and to operate several traditional stratagies of causal idetification, no matter which kind of data is the study conducted on, cross-sectional, time-serie or panel data (I prefer panel however). Such as: <u>fixed-effects model, non-linear regression, instrumental variable, Logit/Probit, PSM, DiD, RDD, RCT, ..., etc.</u>  
+
+Studying *Machine Learning*  and *Big Data Analysis* by myself at present.    
+Read "Articles" section for more information.  
+
+<br>
+
 ## Command Programming
 I have developed several commands based on my own interests or in other words, entertainment. Some of them originated from my workflows and other stemmed from pure interests.  
 Creating a customized automatic progress helps encapsulate my empirical work and improve efficiency.  
@@ -62,20 +80,4 @@ topfootballers UCL, ind(Gls) pos(MF) rank(10) ageu(21) ageo(21)
 You can find the process of programming as well as more details in my [Wechat public post: 𝐒𝐓𝐀𝐓𝐀×实况足球｜跑回归时球瘾犯了，如何调理？—— 基于极简易爬虫及文本分析的解决方案](https://mp.weixin.qq.com/s/F0G4zVV11kcRU4pt7ghDpw).  
 
 ![tfb1](/assets/img/portfolio/1-tfb1.png)    
-
-## Data Cleanning
-Having a rich experience in data collection and cleanning, I am very familiar with the mainstream large-scale economic survey such as *CHIP*, *CFPS*, *CHES*, *CHARLS*, ..., etc.
-  
-I have been appointed to be in charge of data cleanning, which includes from sample selecting to calculation pre-processing, in several programs hosted by my supervisors.  
-Through all these experiences, I have developed immense patience and a sharp attention when dealing with numbers.  
-
-Able to provide an elaborate summary or descriptive statistics if needed, which sometimes I use *R* or *Python* to assist.   
-
-<br><br>
-
-## Data Analysis
-Trained to have a basic understanding towards **Econometric Methodology** and to operate several traditional stratagies of causal idetification, no matter which kind of data is the study conducted on, cross-sectional, time-serie or panel data (I prefer panel however). Such as: <u>fixed-effects model, non-linear regression, instrumental variable, Logit/Probit, PSM, DiD, RDD, RCT, ..., etc.</u>  
-
-Studying *Machine Learning*  and *Big Data Analysis* by myself at present.    
-Read "Articles" section for more information.  
 
