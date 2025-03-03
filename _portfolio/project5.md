@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Field Experience and Practice
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Practice
+  title: Field
   subtitle: Extraverted, Observant, and Thinking
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
