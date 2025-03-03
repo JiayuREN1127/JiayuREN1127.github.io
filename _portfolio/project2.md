@@ -1,7 +1,7 @@
 ---
 title: Data Visualization
 subtitle: Display the data clearly and enlighteningly by careful visual design. 
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/2-full.jpg
 alt: Visualization
 
 caption:
