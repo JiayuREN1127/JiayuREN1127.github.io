@@ -7,7 +7,7 @@ alt:
 caption:
   title: Articles
   subtitle: Try hard to Tell a Fascinating Story 
-  thumbnail: assets/img/portfolio/4-tb.jpg
+  thumbnail: assets/img/portfolio/4-tn.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
