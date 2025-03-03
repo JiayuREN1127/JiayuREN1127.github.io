@@ -33,7 +33,8 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Brief display of the work driven by interests or responsibility."
+    text: "Brief display of the work driven by interests or responsibility.
+            <br>I am someone who tends to forget my work soon after it is completed, and I don't have a habit of recording. The reason I set up this website is to force myself to document, at least, something."
     section: portfolio
     closebutton: "Close"
 
