@@ -5,7 +5,7 @@ image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Field
+  title: Field Experience
   subtitle: Extraverted, Observant, and Thinking
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
