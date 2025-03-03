@@ -22,11 +22,11 @@ I was appointed to design and realize a dashboard which displays the Development
     <source src="assets/img/portfolio/dashboard-1.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-  
-Besides, to import a clean and concise style into my dashboard, I made another one based on the same data source but using *Tableau*. 
+<br>
+Besides, to import a clean and concise style into my dashboard, I made another one based on the same data source but using *Tableau*.  
 ![dashboard-1](/assets/img/portfolio/dashboard-1.jpg)  
   
-I also applicated a similiar layout when prepared for the proposal defense of my graduation thesis. These 2 are hardly different.
+I also applicated a similiar layout when prepared for the proposal defense of my graduation thesis. These 2 are hardly different.  
 ![dashboard-2](/assets/img/portfolio/dashboard-2.jpg)  
 
 ## Economic Statistics  
