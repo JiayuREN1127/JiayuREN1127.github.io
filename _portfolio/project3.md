@@ -1,6 +1,6 @@
 ---
 title: Video Editing and Effects Production
-subtitle: Enjoy oneself in aesthetic and 
+subtitle: Enjoy oneself in meditation on aesthetics and creativity.
 image: assets/img/portfolio/3-full.jpg
 alt: 
 
