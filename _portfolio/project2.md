@@ -39,5 +39,5 @@ And I must mentioned that the data has been anonymized and is for demonstration 
 <img src="/assets/img/portfolio/chart-1.png" alt="ct1" style="max-width: 49%; margin-right: 0px;">
 <img src="/assets/img/portfolio/chart-2.png" alt="ct2" style="max-width: 50%;">
 <br>
-<img src="/assets/img/portfolio/chart-3.png" alt="ct2" style="max-width: 50%;">
+<img src="/assets/img/portfolio/chart-3.png" alt="ct2" style="max-width: 49%; margin-right: 0px;">
 <img src="/assets/img/portfolio/chart-4.png" alt="ct2" style="max-width: 50%;">
