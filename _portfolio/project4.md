@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Articles
+subtitle: Which may be Called as Scientific Research?
 image: assets/img/portfolio/4-full.jpg
 alt: 
 
