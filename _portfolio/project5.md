@@ -9,10 +9,8 @@ caption:
   subtitle: Extraverted, Observant, and Thinking
   thumbnail: assets/img/portfolio/5-tn.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+  
+I have no more energy for writing this part.  
+Just admire the photo above, it was taken when I was on high-speed rail with my school mates during a large-scale household economic field survey held by our tutors.  
+  
+<br>
