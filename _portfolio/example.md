@@ -22,10 +22,10 @@ Template is from github project [agency-theme](https://github.com/raviriley/agen
 Website is deployed via *Github Pages*, and your visit to the project is welcomed: [JiayuREN1127.github.io](https://github.com/JiayuREN1127/JiayuREN1127.github.io).
 
 My portfolio costs approximately no money but a large amount of time and energy. Through the process, I have learnt:
-1. markdown and its application
-2. basic usage of *html* and very little *css*
+1. *markdown* and its application
+2. basic usage of **html** and very little **css**
 3. the common structure of a website and its project
-4. how to make full use of *Github*
+4. how to make full use of ***Github***
 5. stay calm when an error occurs
 
 
