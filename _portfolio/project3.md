@@ -19,9 +19,9 @@ I use ***Adobe Premiere Pro*** (now has already been proved to be rubbish) to ed
   <br>
   <a href="https://www.alipan.com/s/ALnWAa3RAq4">DFB-team1</a> 
   <br> 
-  <a href="[https://www.alipan.com/s/ALnWAa3RAq4](https://www.bilibili.com/video/BV1H8aSeEEfi/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)">DFB-team2</a>
+  <a href="https://www.bilibili.com/video/BV1H8aSeEEfi/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)">DFB-team2</a>  
   <br>
-   <a href="[https://www.alipan.com/s/ALnWAa3RAq4](https://www.bilibili.com/video/BV1JJ4MejEo2/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)">Wusiala</a>
+   <a href="https://www.bilibili.com/video/BV1JJ4MejEo2/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)">Wusiala</a>  
 </div>
 
 <br>  
@@ -29,9 +29,9 @@ I use ***Adobe Premiere Pro*** (now has already been proved to be rubbish) to ed
 ##### Three-body Problem TV series
 <div align="center">
   <br>
-  <a href="https://www.bilibili.com/video/BV1bj411T7Nm/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83">三体电视剧1</a> 
+  <a href="https://www.bilibili.com/video/BV1bj411T7Nm/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83">三体电视剧1</a>   
   <br> 
-  <a href="[https://www.bilibili.com/video/BV15841137Nc/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83">三体电视剧2</a>  
+  <a href="https://www.bilibili.com/video/BV15841137Nc/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83">三体电视剧2</a>    
 </div>
 <br>
 <br>
