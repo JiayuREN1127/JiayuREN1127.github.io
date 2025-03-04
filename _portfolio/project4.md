@@ -9,10 +9,5 @@ caption:
   subtitle: Try hard to Tell a Fascinating Story 
   thumbnail: assets/img/portfolio/4-tn.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+I am already exhausted when writing this part. So just a brief list of titles and abstracts included here. These essays can only be considered undergraduate-level academically, please do forgive me if you regard them as trash.
 
