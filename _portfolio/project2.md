@@ -32,3 +32,11 @@ I also applicated a similiar layout when prepared for the proposal defense of my
 
 ## Economic Statistics  
 I have read somewhere (cannot remember) that graphs speak louder than tables when your model is too giant to show for your readers/audience's first sight. So I generated some images for some of my analysis result, as a reg monkey who prefers colorful blocks than just black&white lines.
+
+I have included some of them here. It should be noted that they are neither my best nor most recent work; they are simply what I could find in my disorganized folders at the moment.  
+And I must mentioned that the data has been anonymized and is for demonstration purposes only, without any economic meaning.
+
+![chart-1](/assets/img/portfolio/chart-1.png)  
+![chart-2](/assets/img/portfolio/chart-2.png)  
+![chart-3](/assets/img/portfolio/chart-3.png)  
+![chart-4](/assets/img/portfolio/chart-4.png)  
