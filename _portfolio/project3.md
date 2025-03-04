@@ -16,15 +16,21 @@ I use ***Adobe Premiere Pro*** (now has already been proved to be rubbish) to ed
   
 ##### Football (hate *bilibili* forever)  
 <div align="center">
-  [DFB-team1](https://www.alipan.com/s/ALnWAa3RAq4)<br> 
-  [DFB-team2](https://www.bilibili.com/video/BV1H8aSeEEfi/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br> 
-  [Wusiala](https://www.bilibili.com/video/BV1JJ4MejEo2/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br> 
+  [DFB-team1](https://www.alipan.com/s/ALnWAa3RAq4)<br>  
+    
+  [DFB-team2](https://www.bilibili.com/video/BV1H8aSeEEfi/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br>  
+    
+  [Wusiala](https://www.bilibili.com/video/BV1JJ4MejEo2/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br>   
+    
 </div>
+<br>  
   
 ##### Three-body Problem TV series
 <div align="center">
-  [三体电视剧1](https://www.bilibili.com/video/BV1bj411T7Nm/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br> 
-  [三体电视剧2](https://www.bilibili.com/video/BV15841137Nc/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br> 
+  [三体电视剧1](https://www.bilibili.com/video/BV1bj411T7Nm/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br>  
+    
+  [三体电视剧2](https://www.bilibili.com/video/BV15841137Nc/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)<br>  
+  
 </div>
 <br>
-  
+<br>
