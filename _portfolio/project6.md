@@ -11,7 +11,7 @@ caption:
 ---
 Since I don't have so much accomplished works — even if I do, I am just not used to keeping a record — so I intentionally leave this blank grid here, waiting eagerly for more potential and the "yet to come".  
 
-By the way, I regard *HIMYM* as the best American+Adults sitcom ever (the best American sitcom of all ages is made by Disney, *Good Luck Charlie* ) .  
+By the way, I regard *How I Met Your Mother* as the best American+Adults sitcom ever (the best American sitcom of all ages is made by Disney, *Good Luck Charlie* ) .  
   
   
 {:.list-inline}
