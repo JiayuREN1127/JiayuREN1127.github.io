@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/3-tn.png
 ---
 I love to carry my thoughts thourgh a creation organizing visual and audio expressions, but video editing costs too much time and energy so I cannot do it very often.  
-Additionally, as my preferences, hobbies, and interests change a lot over time, my past work does not necessarily reflect the topics I am currently passionate about. For instance, football has totured me since the half of season 24/25, I am just not satisfied with the recent performance of my favourite players.
+Additionally, as my preferences, hobbies, and interests change a lot over time, my past work does not necessarily reflect the topics I am currently passionate about. For instance, football has totured me since the half of season 24/25, I am just annoyed by the recent performance of my favourite players.
 
 I use ***Adobe Premiere Pro***(now has already been proved to be rubbish) to edit my video clips.  
   
