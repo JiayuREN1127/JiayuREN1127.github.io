@@ -14,14 +14,17 @@ Additionally, as my preferences, hobbies, and interests change a lot over time, 
 
 I use ***Adobe Premiere Pro*** (now has already been proved to be rubbish) to edit my video clips.  
   
-##### Football (hate *bilibili* forever)
-[DFB-team1](https://www.alipan.com/s/ALnWAa3RAq4)  
-[DFB-team2](https://www.bilibili.com/video/BV1H8aSeEEfi/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
-[Wusiala](https://www.bilibili.com/video/BV1JJ4MejEo2/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
+##### Football (hate *bilibili* forever)  
+<div align="center">
+  [DFB-team1](https://www.alipan.com/s/ALnWAa3RAq4)  
+  [DFB-team2](https://www.bilibili.com/video/BV1H8aSeEEfi/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
+  [Wusiala](https://www.bilibili.com/video/BV1JJ4MejEo2/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
+</div>
   
 ##### Three-body Problem TV series
-[三体电视剧1](https://www.bilibili.com/video/BV1bj411T7Nm/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
-[三体电视剧2](https://www.bilibili.com/video/BV15841137Nc/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
-
+<div align="center">
+  [三体电视剧1](https://www.bilibili.com/video/BV1bj411T7Nm/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
+  [三体电视剧2](https://www.bilibili.com/video/BV15841137Nc/?share_source=copy_web&vd_source=aee61843d7b2abba2627ec3283880b83)  
+</div>
 <br>
   
